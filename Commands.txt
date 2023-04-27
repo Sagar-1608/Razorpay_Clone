@@ -1,5 +1,6 @@
 
-1. Install node
+1. command for npm
+Install node
 2. Run commands
 
    1. 
